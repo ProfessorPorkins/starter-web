@@ -13,3 +13,7 @@ The purpose is to learn git woooooooo
 ## Deployment
 
 Deployment is super cool yay
+
+## Copyright
+
+2022 Git Training
