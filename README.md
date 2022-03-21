@@ -8,4 +8,8 @@ Sample website with plenty of files for demos and lots of cool stuff bla bla bla
 
 ## Purpose
 
+The purpose is to learn git woooooooo
+
 ## Deployment
+
+Deployment is super cool yay
