@@ -14,6 +14,10 @@ The purpose is to learn git woooooooo
 
 Deployment is super cool yay
 
+## How to contribute
+
+Please fork this repo blablabla
+
 ## Copyright
 
 2022 Git Training
