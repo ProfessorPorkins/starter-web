@@ -5,7 +5,7 @@ Adding a line for rebasing example!, then more changes from my feature branch to
 
 ## Introduction
 
-Sample website with plenty of files for demos and lots of cool stuff bla bla bla
+Sample website with plenty of files for demos and lots of cool stuff bla bla bla. Emergency fix after stash
 
 ## Purpose
 
